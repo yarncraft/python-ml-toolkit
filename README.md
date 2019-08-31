@@ -1,6 +1,6 @@
 # python-ml-toolkit
 
-<img src="example.png" width="540" align="right" title="Example">
+<img src="https://res.cloudinary.com/yarncraft/image/upload/v1567244000/example_vhwlns.png" width="540" align="right" title="Example">
 
 Included:
 
@@ -32,4 +32,4 @@ I recommend using Kite in VSCode as it greatly speeds up ML programming.
 
 Pandas Profiler is one of the hidden gems which gives you a dashboard with some basis dataset stats, a html report will automatically be generated in your root folder:
 
-<img src="dashboard.png" width="1000" title="Example">
+<img src="https://res.cloudinary.com/yarncraft/image/upload/v1567243998/dashboard_yubone.png" width="1000" title="Example">
